@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "SFRegular";
+    src: url(Fonts/SF-Regular.otf);
+}
+
+@font-face {
+    font-family: "SFBlvck";
+    src: url(Fonts/SF-Black.otf);
+}
+
+@font-face {
+    font-family: "SFBold";
+    src: url(Fonts/SF-Bold.otf);
+}

@@ -1,0 +1,43 @@
+.bNav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.actions{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.main_BTN{
+    color: #0011FF;
+    font-size: 32px;
+    background-color: white;
+    border: none;
+    font-family: SFBold;
+    text-decoration: none;
+    letter-spacing: -1.5px;
+    line-height: -10px;
+}
+
+.main_BTN:hover{
+    opacity: 90%;
+}
+
+.action_BTN{
+    background-color: white;
+    color: black;
+    border: none;
+    font-family: SFRegular;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    padding-left: 15px;
+}
+
+.action_BTN:hover{
+    opacity: 75%;
+}
